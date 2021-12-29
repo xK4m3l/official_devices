@@ -1,0 +1,16 @@
+{
+    "Xiaomi": {
+        "apollo": {
+            "name": "Mi 10T/10T Pro",
+            "maintainer": "ejbtrd"
+        },
+        "alioth": {
+            "name": "Mi 11X",
+            "maintainer": "HSgod"
+        },
+        "polaris": {
+            "name": "Mi Mix 2S",
+            "maintainer": "cfdddd, ejbtrd"
+        }
+    }
+}
