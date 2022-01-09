@@ -11,6 +11,10 @@
         "polaris": {
             "name": "Mi Mix 2S",
             "maintainer": "cfdddd, ejbtrd"
+        },
+        "lavender": {
+            "name": "Redmi Note 7",
+            "maintainer": "iszon"
         }
     }
 }
