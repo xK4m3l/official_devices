@@ -16,5 +16,11 @@
             "name": "Redmi Note 7",
             "maintainer": "iszon"
         }
+    },
+    "OnePlus": {
+        "kebab": {
+            "name": "8T",
+            "maintainer": "xK4m3l"
+        }
     }
 }
