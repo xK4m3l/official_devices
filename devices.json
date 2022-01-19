@@ -8,13 +8,17 @@
             "name": "Mi 11X",
             "maintainer": "HSgod"
         },
+        "lavender": {
+            "name": "Redmi Note 7",
+            "maintainer": "iszon"
+        },
         "polaris": {
             "name": "Mi Mix 2S",
             "maintainer": "cfdddd, ejbtrd"
         },
-        "lavender": {
-            "name": "Redmi Note 7",
-            "maintainer": "iszon"
+        "raphael": {
+            "name": "Mi 9T Pro",
+            "maintainer": "ejbtrd"
         }
     },
     "OnePlus": {
