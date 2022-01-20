@@ -12,6 +12,10 @@
             "name": "Redmi Note 7",
             "maintainer": "iszon"
         },
+        "merlinx": {
+            "name": "Redmi Note 9",
+            "maintainer": "AlanT59"
+        },
         "polaris": {
             "name": "Mi Mix 2S",
             "maintainer": "cfdddd, ejbtrd"
