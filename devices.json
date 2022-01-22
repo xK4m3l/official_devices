@@ -23,6 +23,10 @@
         "raphael": {
             "name": "Mi 9T Pro",
             "maintainer": "ejbtrd"
+        },
+        "surya": {
+            "name": "POCO X3 NFC",
+            "maintainer": "windeqk"
         }
     },
     "OnePlus": {
