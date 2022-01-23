@@ -8,6 +8,10 @@
             "name": "POCO F3",
             "maintainer": "HSgod"
         },
+        "beryllium" : {
+            "name" : "POCO F1" ,
+            "maintainer" : "Nexus"
+       },
         "lavender": {
             "name": "Redmi Note 7",
             "maintainer": "iszon"
