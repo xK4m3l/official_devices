@@ -20,6 +20,10 @@
             "name": "Redmi Note 9",
             "maintainer": "AlanT59"
         },
+        "miatoll": {
+            "name": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max ",
+            "maintainer": "zlewchan"
+        },
         "polaris": {
             "name": "Mi Mix 2S",
             "maintainer": "cfdddd, ejbtrd"
