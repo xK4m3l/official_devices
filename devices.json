@@ -35,6 +35,10 @@
         "surya": {
             "name": "POCO X3 NFC",
             "maintainer": "windeqk"
+        },
+        "umi": {
+            "name": "Mi 10",
+            "maintainer": "ejbtrd"
         }
     },
     "OnePlus": {
