@@ -1,12 +1,24 @@
 {
+    "OnePlus": {
+        "kebab": {
+            "name": "8T",
+            "maintainer": "xK4m3l"
+        }
+    },
+    "Realme": {
+        "r5x": {
+            "name": "Realme 5 Series",
+            "maintainer": "COSMOS | Biswajit"
+        }
+    },
     "Xiaomi": {
-        "apollo": {
-            "name": "Mi 10T/10T Pro",
-            "maintainer": "ejbtrd"
-        },
         "alioth": {
             "name": "POCO F3",
             "maintainer": "HSgod"
+        },
+        "apollo": {
+            "name": "Mi 10T/10T Pro",
+            "maintainer": "ejbtrd"
         },
         "beryllium": {
             "name": "POCO F1",
@@ -39,18 +51,6 @@
         "umi": {
             "name": "Mi 10",
             "maintainer": "ejbtrd"
-        }
-    },
-    "OnePlus": {
-        "kebab": {
-            "name": "8T",
-            "maintainer": "xK4m3l"
-        }
-    },
-    "Realme": {
-        "r5x": {
-            "name": "Realme 5 Series",
-            "maintainer": "COSMOS | Biswajit"
         }
     }
 }
